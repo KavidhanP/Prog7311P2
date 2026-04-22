@@ -1,0 +1,772 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanda\\source\\repos\\TechMove\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\contracts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\contracts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5E212F-07EE-4A38-B55E-03751CE62FA9}|..\\TechMove.Tests\\TechMove.Tests.csproj|c:\\users\\kanda\\source\\repos\\techmove.tests\\filevalidationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\servicerequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\servicerequests\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\servicerequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\servicerequests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\contracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\contracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\contracts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\contracts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\contracts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\contracts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\data\\techmovedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:data\\techmovedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5E212F-07EE-4A38-B55E-03751CE62FA9}|..\\TechMove.Tests\\TechMove.Tests.csproj|c:\\users\\kanda\\source\\repos\\techmove.tests\\currencyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5E212F-07EE-4A38-B55E-03751CE62FA9}|..\\TechMove.Tests\\TechMove.Tests.csproj|c:\\users\\kanda\\source\\repos\\techmove.tests\\services\\currencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D5E212F-07EE-4A38-B55E-03751CE62FA9}|..\\TechMove.Tests\\TechMove.Tests.csproj|c:\\users\\kanda\\source\\repos\\techmove.tests\\services\\filevalidationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\states\\onholdstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:states\\onholdstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\states\\activestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:states\\activestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\states\\contractstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:states\\contractstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\states\\draftstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:states\\draftstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\states\\expiredstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:states\\expiredstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\states\\icontractstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:states\\icontractstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\contracts\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\contracts\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\migrations\\20260419210527_addcostusd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:migrations\\20260419210527_addcostusd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\contracts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\contracts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:views\\clients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\migrations\\techmovedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:migrations\\techmovedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\migrations\\20260418105458_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:migrations\\20260418105458_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\migrations\\20260419212117_costbugfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:migrations\\20260419212117_costbugfixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\migrations\\20260419211750_addedcostusd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:migrations\\20260419211750_addedcostusd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwC0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T21:33:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T21:32:51.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T21:32:47.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T21:32:46.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\ServiceRequests\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ServiceRequests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\ServiceRequests\\Index.cshtml",
+              "RelativeToolTip": "Views\\ServiceRequests\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T20:56:27.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contracts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Contracts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T20:44:35.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileValidationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\FileValidationServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\TechMove.Tests\\FileValidationServiceTests.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\FileValidationServiceTests.cs",
+              "RelativeToolTip": "..\\TechMove.Tests\\FileValidationServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:59:55.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\Services\\FileValidationService.cs",
+              "RelativeDocumentMoniker": "..\\TechMove.Tests\\Services\\FileValidationService.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\Services\\FileValidationService.cs",
+              "RelativeToolTip": "..\\TechMove.Tests\\Services\\FileValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:38:58.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CurrencyService.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\Services\\CurrencyService.cs",
+              "RelativeDocumentMoniker": "..\\TechMove.Tests\\Services\\CurrencyService.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\Services\\CurrencyService.cs",
+              "RelativeToolTip": "..\\TechMove.Tests\\Services\\CurrencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:38:24.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CurrencyServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\CurrencyServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\TechMove.Tests\\CurrencyServiceTests.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\CurrencyServiceTests.cs",
+              "RelativeToolTip": "..\\TechMove.Tests\\CurrencyServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T21:34:39.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "search.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\search.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contracts\\search.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\search.cshtml",
+              "RelativeToolTip": "Views\\Contracts\\search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T21:02:25.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20260419212117_Costbugfixed.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\20260419212117_Costbugfixed.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260419212117_Costbugfixed.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\20260419212117_Costbugfixed.cs",
+              "RelativeToolTip": "Migrations\\20260419212117_Costbugfixed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:21:17.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20260419211750_AddedCostUSD.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\20260419211750_AddedCostUSD.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260419211750_AddedCostUSD.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\20260419211750_AddedCostUSD.cs",
+              "RelativeToolTip": "Migrations\\20260419211750_AddedCostUSD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:17:50.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\ServiceRequests\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ServiceRequests\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\ServiceRequests\\Create.cshtml",
+              "RelativeToolTip": "Views\\ServiceRequests\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-19T21:12:47.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260419210527_AddCostUSD.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\20260419210527_AddCostUSD.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260419210527_AddCostUSD.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\20260419210527_AddCostUSD.cs",
+              "RelativeToolTip": "Migrations\\20260419210527_AddCostUSD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T21:05:28.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T20:36:15.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contracts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Details.cshtml",
+              "RelativeToolTip": "Views\\Contracts\\Details.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T21:04:37.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contracts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contracts\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T21:04:08.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contracts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Contracts\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvywAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T20:43:16.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contracts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Contracts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T20:42:48.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Clients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Clients\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clients\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T20:31:35.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T13:13:13.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T12:48:25.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:48:17.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContractStateFactory.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\ContractStateFactory.cs",
+              "RelativeDocumentMoniker": "States\\ContractStateFactory.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\ContractStateFactory.cs",
+              "RelativeToolTip": "States\\ContractStateFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:47:04.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OnHoldState.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\OnHoldState.cs",
+              "RelativeDocumentMoniker": "States\\OnHoldState.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\OnHoldState.cs",
+              "RelativeToolTip": "States\\OnHoldState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:46:47.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExpiredState.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\ExpiredState.cs",
+              "RelativeDocumentMoniker": "States\\ExpiredState.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\ExpiredState.cs",
+              "RelativeToolTip": "States\\ExpiredState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:46:26.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ActiveState.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\ActiveState.cs",
+              "RelativeDocumentMoniker": "States\\ActiveState.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\ActiveState.cs",
+              "RelativeToolTip": "States\\ActiveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:46:05.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DraftState.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\DraftState.cs",
+              "RelativeDocumentMoniker": "States\\DraftState.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\DraftState.cs",
+              "RelativeToolTip": "States\\DraftState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:45:40.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IContractState.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\IContractState.cs",
+              "RelativeDocumentMoniker": "States\\IContractState.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\IContractState.cs",
+              "RelativeToolTip": "States\\IContractState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:45:19.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\ServiceRequestRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ServiceRequestRepository.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\ServiceRequestRepository.cs",
+              "RelativeToolTip": "Repositories\\ServiceRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:44:18.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ContractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\ContractRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ContractRepository.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\ContractRepository.cs",
+              "RelativeToolTip": "Repositories\\ContractRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:43:56.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:43:30.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IServiceRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\IServiceRequestRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IServiceRequestRepository.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\IServiceRequestRepository.cs",
+              "RelativeToolTip": "Repositories\\IServiceRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:42:55.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IContractRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\IContractRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IContractRepository.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\IContractRepository.cs",
+              "RelativeToolTip": "Repositories\\IContractRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:42:22.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:41:52.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServiceRequestsController.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\ServiceRequestsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiceRequestsController.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\ServiceRequestsController.cs",
+              "RelativeToolTip": "Controllers\\ServiceRequestsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T12:19:43.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "Controllers\\ContractsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:59:39.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:57:50.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:56:43.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TechMoveDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\TechMoveDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\TechMoveDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\TechMoveDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\TechMoveDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:52:49.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20260418105458_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\20260418105458_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260418105458_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Migrations\\20260418105458_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260418105458_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:52:47.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TechMoveDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Data\\TechMoveDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TechMoveDbContext.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Data\\TechMoveDbContext.cs",
+              "RelativeToolTip": "Data\\TechMoveDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:51:02.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "Models\\ServiceRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:50:59.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "Models\\Contract.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\Contract.cs",
+              "RelativeToolTip": "Models\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:50:57.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Models\\Client.cs",
+              "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\Client.cs",
+              "RelativeToolTip": "Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:50:55.465Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
