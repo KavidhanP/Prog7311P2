@@ -278,3 +278,4 @@ C:\Users\kanda\source\repos\TechMove\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnal
 C:\Users\kanda\source\repos\TechMove\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\kanda\source\repos\TechMove\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\kanda\source\repos\TechMove\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kanda\source\repos\TechMove\obj\Debug\net8.0\TechMove.sourcelink.json

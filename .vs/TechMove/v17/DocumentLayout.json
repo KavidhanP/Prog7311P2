@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\kanda\\source\\repos\\TechMove\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\views\\contracts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -111,18 +131,6 @@
       "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:states\\icontractstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\servicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\iservicerequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\icontractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:controllers\\servicerequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -133,14 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|solutionrelative:repositories\\contractrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29CBFAE2-C140-466C-9FA1-5AB591E4D807}|TechMove.csproj|c:\\users\\kanda\\source\\repos\\techmove\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -190,11 +190,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 32,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -202,12 +202,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAQwC0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-22T21:33:14.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-22T21:33:14.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -219,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -231,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
@@ -243,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\ServiceRequests\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\ServiceRequests\\Index.cshtml",
@@ -255,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Contracts\\Delete.cshtml",
@@ -267,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "FileValidationServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\FileValidationServiceTests.cs",
               "RelativeDocumentMoniker": "..\\TechMove.Tests\\FileValidationServiceTests.cs",
@@ -279,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "FileValidationService.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\Services\\FileValidationService.cs",
               "RelativeDocumentMoniker": "..\\TechMove.Tests\\Services\\FileValidationService.cs",
@@ -291,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "CurrencyService.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\Services\\CurrencyService.cs",
               "RelativeDocumentMoniker": "..\\TechMove.Tests\\Services\\CurrencyService.cs",
@@ -303,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "CurrencyServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove.Tests\\CurrencyServiceTests.cs",
               "RelativeDocumentMoniker": "..\\TechMove.Tests\\CurrencyServiceTests.cs",
@@ -351,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\ServiceRequests\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\ServiceRequests\\Create.cshtml",
@@ -399,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Contracts\\Index.cshtml",
@@ -411,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Contracts\\Edit.cshtml",
@@ -423,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Contracts\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Contracts\\Create.cshtml",
@@ -431,8 +430,7 @@
               "RelativeToolTip": "Views\\Contracts\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-18T20:42:48.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-18T20:42:48.081Z"
             },
             {
               "$type": "Document",
@@ -448,20 +446,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\kanda\\source\\repos\\TechMove\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-04-18T13:13:13.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -473,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -485,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "ContractStateFactory.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\ContractStateFactory.cs",
               "RelativeDocumentMoniker": "States\\ContractStateFactory.cs",
@@ -497,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "OnHoldState.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\OnHoldState.cs",
               "RelativeDocumentMoniker": "States\\OnHoldState.cs",
@@ -509,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "ExpiredState.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\ExpiredState.cs",
               "RelativeDocumentMoniker": "States\\ExpiredState.cs",
@@ -521,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "ActiveState.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\ActiveState.cs",
               "RelativeDocumentMoniker": "States\\ActiveState.cs",
@@ -533,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "DraftState.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\DraftState.cs",
               "RelativeDocumentMoniker": "States\\DraftState.cs",
@@ -545,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "IContractState.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\States\\IContractState.cs",
               "RelativeDocumentMoniker": "States\\IContractState.cs",
@@ -557,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 1,
               "Title": "ServiceRequestRepository.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\ServiceRequestRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ServiceRequestRepository.cs",
@@ -565,11 +563,12 @@
               "RelativeToolTip": "Repositories\\ServiceRequestRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T12:44:18.954Z"
+              "WhenOpened": "2026-04-18T12:44:18.954Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 5,
               "Title": "ContractRepository.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\ContractRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ContractRepository.cs",
@@ -577,11 +576,12 @@
               "RelativeToolTip": "Repositories\\ContractRepository.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T12:43:56.867Z"
+              "WhenOpened": "2026-04-18T12:43:56.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ClientRepository.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\ClientRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ClientRepository.cs",
@@ -594,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 2,
               "Title": "IServiceRequestRepository.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\IServiceRequestRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IServiceRequestRepository.cs",
@@ -602,11 +602,12 @@
               "RelativeToolTip": "Repositories\\IServiceRequestRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T12:42:55.06Z"
+              "WhenOpened": "2026-04-18T12:42:55.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 3,
               "Title": "IContractRepository.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\IContractRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IContractRepository.cs",
@@ -614,11 +615,12 @@
               "RelativeToolTip": "Repositories\\IContractRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T12:42:22.269Z"
+              "WhenOpened": "2026-04-18T12:42:22.269Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 4,
               "Title": "IClientRepository.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Repositories\\IClientRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IClientRepository.cs",
@@ -626,11 +628,12 @@
               "RelativeToolTip": "Repositories\\IClientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-18T12:41:52.606Z"
+              "WhenOpened": "2026-04-18T12:41:52.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "ServiceRequestsController.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\ServiceRequestsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ServiceRequestsController.cs",
@@ -654,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "ClientsController.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Controllers\\ClientsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientsController.cs",
@@ -666,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -702,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "TechMoveDbContext.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Data\\TechMoveDbContext.cs",
               "RelativeDocumentMoniker": "Data\\TechMoveDbContext.cs",
@@ -714,7 +717,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "ServiceRequest.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\ServiceRequest.cs",
               "RelativeDocumentMoniker": "Models\\ServiceRequest.cs",
@@ -726,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Contract.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\Contract.cs",
               "RelativeDocumentMoniker": "Models\\Contract.cs",
@@ -738,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\kanda\\source\\repos\\TechMove\\Models\\Client.cs",
               "RelativeDocumentMoniker": "Models\\Client.cs",
@@ -747,6 +750,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-18T11:50:55.465Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
